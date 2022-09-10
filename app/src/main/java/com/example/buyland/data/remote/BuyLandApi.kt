@@ -19,11 +19,7 @@ interface BuyLandApi {
     ): Call<String?>
 
 
-    //////////////////////////
-    /*@GET("AddNazarForServiser/{Unique_code},{UsersId},{ServiserId},{TextNazar_},{NumRank},{OrderId}")
-    fun postByGet( @Path("Unique_code") Unique_code : String , @Path ("UsersId") UsersId :String ,
-
-    ):Call<String?>*/
+    
 
 
 
