@@ -97,7 +97,7 @@ fun HomeScreen(userId:Int,navController: NavController,viewModel: HomeScreenView
 
                     Image(
                         painter = painterResource(R.drawable.shopping_logo),
-                        contentDescription = "Mamoti's hebrew bro (hebro)",
+                        contentDescription = "",
                         modifier = Modifier
                             .size(300.dp)
                             .clickable {
